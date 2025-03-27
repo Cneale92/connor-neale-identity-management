@@ -1,0 +1,5 @@
+{
+  "google_project_id": "your-google-project-id",
+  "ldap_server": "ldap://your-ldap-server",
+  "azure_tenant_id": "your-azure-tenant-id"
+}
